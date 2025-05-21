@@ -1,0 +1,13 @@
+# [opener]
+# nvim_unique = [
+#   { run = '~/.config/sh/yazi_kitty_open_once.sh "$0"', orphan = true, for = "unix", desc = "Open in Neovim once" }
+# ]
+# 
+# [open]
+# prepend_rules = [
+#   { name = "*", use = "nvim_unique" },
+# ]
+# 
+# 
+# [manager]
+# title_format = "⭐ Yazi"
